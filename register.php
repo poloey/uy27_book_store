@@ -114,20 +114,13 @@
 													<td>
 													<select style="width: 195px;" name="city">
 														
-															<option>Ahmedabad
-															<option>Baroda
-															<option>Jamnagar
-															<option>Rajkot
-															<option>Porbandar
-															<option>Anand
-															<option>Surat
-															<option>Surendranagar
-															<option>Jamnagar
-															<option>Junagadh
-															<option>Amreli
-															<option>Bhavnagar
-															<option>Mehsana
-															
+															<option>Dhaka
+															<option>Khulna
+															<option>Barishal
+															<option>Rajshahi
+															<option>Chittagong
+															<option>Khulna
+															<option>Rangpur
 														
 													</select>
 												

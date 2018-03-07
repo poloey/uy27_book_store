@@ -29,13 +29,7 @@ require('includes/config.php');
 					</div>
 				</div>
 				
-				<div id="logo-wrap">
-					<div id="logo">
-							<?php
-								include("includes/logo.inc.php");
-							?>
-					</div>
-				</div>
+				<div class="p-4"></div>
 			<!-- end header -->
 			
 			<!-- start page -->

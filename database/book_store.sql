@@ -155,10 +155,10 @@ CREATE TABLE IF NOT EXISTS `contact` (
 --
 
 INSERT INTO `contact` (`con_id`, `con_nm`, `con_email`, `con_query`) VALUES
-(1, 'Hiren', 'hiru@gmail.com', 'English Novels...'),
-(2, 'Shital', 'shital@yahoo.com', 'Are you send me medical books?'),
-(3, 'Manali', 'manali@yahoo.com', 'Java Complete Reference is available?'),
-(4, 'Rina', 'rina@gmail.com', 'Artificial Intelligence');
+(1, 'parvez', 'parvez@gmail.com', 'English Novels...'),
+(2, 'sharif', 'sharif@yahoo.com', 'Are you send me medical books?'),
+(3, 'Helal', 'helal@yahoo.com', 'Java Complete Reference is available?'),
+(4, 'Rajib', 'rajib@gmail.com', 'Artificial Intelligence');
 
 -- --------------------------------------------------------
 
@@ -183,8 +183,8 @@ CREATE TABLE IF NOT EXISTS `shipping_details` (
 --
 
 INSERT INTO `shipping_details` (`id`, `name`, `address`, `postal_code`, `city`, `state`, `phone`, `f_id`) VALUES
-(1, 'sanjeev kumar', ' 141 delhi', 110009, 'delhi', 'delhi', 9015501897, 'sanjeev'),
-(2, 'sanjeev kumar', ' 141 delhi', 110009, 'delhi', 'delhi', 9015501897, 'sanjeev');
+(1, 'sanjeev kumar', ' 141 dhaka', 110009, 'dhaka', 'dhaka', 9015501897, 'sanjeev'),
+(2, 'sanjeev kumar', ' 141 dhaka', 110009, 'dhaka', 'dhaka', 9015501897, 'sanjeev');
 
 -- --------------------------------------------------------
 

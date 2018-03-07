@@ -38,7 +38,7 @@
 								}
 							?>
 							</h1>
-							<p>user: admin password: admin</p>
+							<p>user: admin password: admin123</p>
 							<div class="entry">
 								<br>
 								

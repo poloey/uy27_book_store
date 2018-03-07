@@ -30,11 +30,7 @@
 						<div class="post">
 							<h1 class="title">About Us</h1>
 							<div class="entry" style="height:auto">
-								
-We <a href="http://www.phptpoint.com">Phptpoint</a> are an online free PHP tutorial website for PHP interested candidates.<br/>
- We are providing industry specific PHP tutorial designed for intermediate to advanced PHP levels of complexity.<br/> We are an Online Php Tutorial for Beginners as well as for active PHP programmers to learn and improve their knowledge about PHP, Mysql, cake php, codeigniter & joomla.
- <br/>
-  The tutorial we provide comes easy and appropriate examples that give learner the ability to create powerful PHP based web applications very quickly.
+								This is project for uy23 batch. Its a simple php site where we can store book information and user can buy from it 
 							</div>
 							
 						</div>
